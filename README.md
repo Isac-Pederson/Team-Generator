@@ -13,6 +13,9 @@ Generates a team through Javascript consisting of one manager, engineers, and in
 
 * [Installation](#installation)
 
+![](img/myteam.PNG)
+
+
 ## License
  This project is licensed under GNU General Public License v2.0
 
