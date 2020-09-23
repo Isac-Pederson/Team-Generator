@@ -6,14 +6,13 @@
 
 Generates a team through Javascript consisting of one manager, engineers, and interns. Used tests to outline the logic if the project. 
 
+![](img/myteam.PNG)
 
 ## Table of Contents
 
 * [License](#license)
 
 * [Installation](#installation)
-
-![](img/myteam.PNG)
 
 
 ## License
