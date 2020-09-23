@@ -8,6 +8,8 @@ Generates a team through Javascript consisting of one manager, engineers, and in
 
 ![](img/myteam.PNG)
 
+![](img/MyTEAM.gif)
+
 ## Table of Contents
 
 * [License](#license)
