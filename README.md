@@ -6,12 +6,14 @@
 
 Generates a team through Javascript consisting of one manager, engineers, and interns. Used tests to outline the logic if the project. 
 
+![](img/myteam.PNG)
 
 ## Table of Contents
 
 * [License](#license)
 
 * [Installation](#installation)
+
 
 ## License
  This project is licensed under GNU General Public License v2.0
