@@ -1,0 +1,14 @@
+.team-heading{
+    background-color: palevioletred;
+}
+
+
+.card-header{
+    background-color: rgb(17, 143, 246);
+    height: 175px;
+}
+
+.card{
+    margin: 1%;
+}
+
